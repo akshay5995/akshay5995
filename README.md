@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Akshay Ram Vignesh. Currently [@agoda](www.agoda.com) as a Full Stack Software Engineer. 
+#### I'm Akshay Ram Vignesh. Currently @[agoda](www.agoda.com) as a Full Stack Software Engineer. 
 
 I love building things (:rocket: :rocket: :rocket:), dogs (:dog: :dog:) and socccer (:soccer:).
 
