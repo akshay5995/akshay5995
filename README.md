@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Akshay, Currently @agoda as a Full Stack Software Engineer. 
+#### I'm Akshay, Currently @agoda as a Senior Software Engineer. 
 
 I love building things (:rocket: :rocket: :rocket:), dogs (:dog: :dog:) and football (:soccer:).
 
