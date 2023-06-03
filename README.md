@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Akshay, Currently @glovo as a Software Engineer. (Ex @agoda)
+#### I'm Akshay, Currently @agoda as a Software Engineer. (Ex @glovo)
 
 I love building things (:rocket: :rocket: :rocket:), dogs (:dog: :dog:) and football (:soccer:).
 
